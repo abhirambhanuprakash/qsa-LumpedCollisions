@@ -7,3 +7,5 @@ alphaValue: value of alpha (power law exponent)
 N: value of N (number of QSA segments)
 
 Example: QSA_alpha_1.5_N_5 means the sound example generated with the QSA method for alpha = 1.5 and N = 5
+
+IMP_64OS: IMP scheme with 64x oversampling (decimated to 44.1kHz)
